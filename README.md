@@ -1,3 +1,5 @@
+![Screenshot_1](https://github.com/NaaLajcie/nalajcie_cruisecontrol/assets/134964273/cda83b6b-5d61-4e13-867b-1a6207cfa97e)
+
 **This script is designed to function as a standalone cruise control system, utilizing the ox_lib library. It offers users the ability to set and maintain a desired speed while driving. The interface allows for speed adjustment while in motion, displaying both the maximum speed of the vehicle and its model.**
 
 # Key Features:
