@@ -6,5 +6,4 @@
 ## Speed Adjustment:
 - **Users can adjust the speed while the vehicle is in motion, ensuring convenient control.**
 
-
-#Preview: https://www.youtube.com/watch?v=_BK_SS_q8rg&t=14s
+**Preview:** https://www.youtube.com/watch?v=_BK_SS_q8rg&t=14s
